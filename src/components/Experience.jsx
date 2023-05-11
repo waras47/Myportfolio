@@ -12,6 +12,7 @@ import golang from "../assets/golang.png";
 import laravel from "../assets/laravel.png";
 import android from "../assets/android.png";
 import kotlin from "../assets/kotlin.png";
+import node from "../assets/node.png";
 
 const Experience = () => {
 
@@ -36,54 +37,60 @@ const Experience = () => {
   },
   {
     id: 4,
+    src: node,
+    title: "NodejS",
+    style: "shadow-yellow-500",
+  },
+  {
+    id: 5,
     src: reactImage,
     title: "React",
     style: "shadow-blue-600",
   },
   {
-    id: 5,
+    id: 6,
     src: tailwind,
     title: "Tailwind",
     style: "shadow-sky-400",
   },
   {
-    id: 6,
+    id: 7,
     src: vue,
     title: "Next JS",
     style: "shadow-white",
   },
   {
-    id: 7,
+    id: 8,
     src: graphql,
     title: "GraphQL",
     style: "shadow-pink-400",
   },
   {
-    id: 8,
+    id: 9,
     src: github,
     title: "GitHub",
     style: "shadow-gray-400",
   },
   {
-   id: 9,
+   id: 10,
    src: kotlin,
    title: "kotlin",
    style: "shadow-blue-600",
  },
  {
-  id: 10,
+  id: 11,
   src: android,
   title: "Android",
   style: "shadow-pink-400",
 },
 {
- id: 11,
+ id: 12,
  src: golang,
  title: "Golang",
  style: "shadow-orange-500",
 },
 {
- id: 12,
+ id: 13,
  src: laravel,
  title: "Laravel",
  style: "shadow-white",
