@@ -12,6 +12,7 @@ const Portfolio = () => {
     {
       id: 1,
       src: arrayDestruct
+      link: 
     },
     {
       id: 2,
